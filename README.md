@@ -1,10 +1,5 @@
 # diominvd
-
-## Python Developer
-
-### About me
-
-###### Saint-Petersburg, 22 years, Python Developer.
+##### Saint-Petersburg, 22 years, Python Developer.
 
 ### Languages and Tools
 ![Aiogram](https://img.shields.io/badge/-Aiogram-black?style=for-the-badge&logo=telegram)
