@@ -10,7 +10,6 @@
 
 ### Tools
 ![React.js](https://img.shields.io/badge/-React.js-black?style=for-the-badge&logo=React)
-![Node.js](https://img.shields.io/badge/-React.js-black?style=for-the-badge&logo=React)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-black?style=for-the-badge&logo=nestjs)
 ![Aiogram](https://img.shields.io/badge/-Aiogram-black?style=for-the-badge&logo=telegram)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)
