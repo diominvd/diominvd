@@ -1,4 +1,4 @@
-# dev.inch
+# ~/dev
 ##### 22 years, FullStack Developer
 
 ### Languages
