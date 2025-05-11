@@ -1,4 +1,4 @@
-Vyacheslav. 23 years old. FullStack developer. Work experience - 6 years.
+Vyacheslav. 23 years old. FullStack developer. Work experience - 6 years ![](https://komarev.com/ghpvc/?username=diominvd)
 
 I like to set myself difficult tasks and solve them. I value time and try to use it as efficiently as possible. The main incentive is development.
 
