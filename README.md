@@ -1,19 +1,12 @@
-I have been doing programming for more than 6 years. I like to set myself impossible tasks and solve them with hard work. I am constantly developing and discovering something new. If it becomes easy for me to write code, it means that I need to move on. Below is a brief summary of my skills.
+Vyacheslav. 23 years old. FullStack developer. Work experience - 6 years.
 
-### The languages I write in:
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
-![CSS/SCSS/SASS](https://img.shields.io/badge/-CSS/SCSS/SASS-black?style=for-the-badge&logo=SASS)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=TypeScript)
+I like to set myself difficult tasks and solve them. I value time and try to use it as efficiently as possible. The main incentive is development.
 
-### The tools I use in development:
-![React.js](https://img.shields.io/badge/-React.js-black?style=for-the-badge&logo=React)
-![Nest.js](https://img.shields.io/badge/-Nest.js-black?style=for-the-badge&logo=nestjs)
-![Aiogram](https://img.shields.io/badge/-Aiogram-black?style=for-the-badge&logo=telegram)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=Sqlite)
-![Prisma](https://img.shields.io/badge/-Prisma-black?style=for-the-badge&logo=Prisma)
-![GIT](https://img.shields.io/badge/-GIT-black?style=for-the-badge&logo=GIT)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+👏 Real work experience:
+- ![Creating a FullStack web application based on TMA](https://github.com/Independent-Chain/inch-webapp)
+- ![Creation of a printing simulator in SPA format](https://github.com/diominvd/key-trainer)
+- ![Creation of ui-kit in npm-package format](https://www.npmjs.com/package/@diominvd/ui-kit)
+- ![Creating a Telegram bot to work with an external API](https://github.com/diominvd/stock-bot)
+- ![Creation of a Telegram bot with its own architecture and OOP data model](https://github.com/Independent-Chain/inch-bot)
+
+![Vyacheslav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diominvd&show_icons=true&theme=radical)
