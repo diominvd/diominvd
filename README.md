@@ -11,3 +11,4 @@ I like to set myself difficult tasks and solve them. I value time and try to use
 
 ![Vyacheslav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diominvd&show_icons=false&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diominvd&layout=compact)
+![Trophies](https://github-profile-trophy.vercel.app/?username=diominvd&theme=onedark)
