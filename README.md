@@ -10,4 +10,4 @@ I like to set myself difficult tasks and solve them. I value time and try to use
 - [Creation of a Telegram bot with its own architecture and OOP data model](https://github.com/Independent-Chain/inch-bot)
 
 ![Vyacheslav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diominvd&show_icons=false&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diominvd&layout=compact)
