@@ -6,6 +6,7 @@ I like to set myself difficult tasks and solve them. I value time and try to use
 
 👏 **Real work experience:**
 - [Creating a FullStack web application based on TMA](https://github.com/Independent-Chain/inch-webapp)
+- [JavaScript library for managing CSS variables](https://github.com/diominvd/chromaflow)
 - [Creation of a printing simulator in SPA format](https://github.com/diominvd/key-trainer)
 - [Creation of ui-kit in npm-package format](https://www.npmjs.com/package/@diominvd/ui-kit)
 - [Creating a Telegram bot to work with an external API](https://github.com/diominvd/stock-bot)
