@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+:root {
+  --background: #0F0F0F;
+  --primary-text: #FFFFFF;
+  --secondary-text: #858585;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  background-color: var(--background);
+}
+
+body {
+  display: flex;
+}
+
+.primary-text {
+  color: var(--primary-text);
+}
+
+.secondary-text {
+  color: var(--secondary-text);
+}

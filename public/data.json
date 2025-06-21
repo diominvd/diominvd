@@ -1,0 +1,34 @@
+{
+  "description": "I strive for self-improvement and development. The best investment is in yourself. The most valuable resource is time.",
+  "location": "Russia",
+  "organization": "None",
+  "specialization": "FullStack",
+  "experience": "3 years",
+  "skills": {
+    "languages": [
+      "Python",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "frameworks": [
+      "React",
+      "Next.js",
+      "Nest.js"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL"
+    ],
+    "tools": [
+      "Git",
+      "GitHub",
+      "Docker",
+      "Figma"
+    ]
+  },
+  "projects": {
+    "Independent Chain": "https://github.com/Independent-Chain/inch-webapp",
+    "KeyTrainer": "https://github.com/diominvd/key-trainer",
+    "Chromaflow": "https://github.com/diominvd/chromaflow"
+  }
+}
