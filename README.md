@@ -1,15 +1,23 @@
-Vyacheslav. 23 years old. FullStack developer. Work experience - 6 years 
+<h2 align="center">Hi, my name is Viacheslav 👋</h2>
 
-![](https://komarev.com/ghpvc/?username=diominvd)
+<h4 align="center">FullStack developer from Russia 🇷🇺</h2>
 
-I like to set myself difficult tasks and solve them. I value time and try to use it as efficiently as possible. The main incentive is development.
+I specialize in creating web applications using the most advanced technologies of any complexity. I have experience in creating scalable and efficient applications, with an emphasis on clean code, performance optimization, and user friendliness. He worked on spas, online stores, Telegram bots, Telegram Mini Apps, WEB3, and his own libraries. He successfully completed projects both individually and as a team, effectively interacting with colleagues to achieve common goals.
 
-👏 **Real work experience:**
-- [Creating a FullStack web application based on TMA](https://github.com/Independent-Chain/inch-webapp)
-- [JavaScript library for managing CSS variables](https://github.com/diominvd/chromaflow)
-- [Creation of a printing simulator in SPA format](https://github.com/diominvd/key-trainer)
-- [Creation of ui-kit in npm-package format](https://www.npmjs.com/package/@diominvd/ui-kit)
-- [Creating a Telegram bot to work with an external API](https://github.com/diominvd/stock-bot)
-- [Creation of a Telegram bot with its own architecture and OOP data model](https://github.com/Independent-Chain/inch-bot)
+<h2>Contacts</h2>
 
-![Vyacheslav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diominvd&show_icons=true&theme=transparent)
+- Telegram: [@diominvd](https://t.me/diominvd)
+- Telegram channel: [@diominvdev](https://t.me/diominvdev)
+
+<h2>Skills</h2>
+
+| Languages | Frameworks | Tools | Databases |
+|-----------|------------|-------|-----------|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-23232a?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![React](https://img.shields.io/badge/React-23232a?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Git](https://img.shields.io/badge/Git-23232a?style=for-the-badge&logo=git&logoColor=F05032) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-23232a?style=for-the-badge&logo=postgresql&logoColor=4169E1) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-23232a?style=for-the-badge&logo=typescript&logoColor=3178C6) | ![Next.js](https://img.shields.io/badge/Next.js-23232a?style=for-the-badge&logo=next.js&logoColor=FFFFFF) | ![GitHub](https://img.shields.io/badge/GitHub-23232a?style=for-the-badge&logo=github&logoColor=FFFFFF) | ![MySQL](https://img.shields.io/badge/MySQL-23232a?style=for-the-badge&logo=mysql&logoColor=4479A1) |
+| ![Go](https://img.shields.io/badge/Go-23232a?style=for-the-badge&logo=go&logoColor=00ADD8) | ![NestJS](https://img.shields.io/badge/NestJS-23232a?style=for-the-badge&logo=nestjs&logoColor=E0234E) | ![Figma](https://img.shields.io/badge/Figma-23232a?style=for-the-badge&logo=figma&logoColor=F24E1E) | ![MongoDB](https://img.shields.io/badge/MongoDB-23232a?style=for-the-badge&logo=mongodb&logoColor=47A248) |
+| ![Python](https://img.shields.io/badge/Python-23232a?style=for-the-badge&logo=python&logoColor=3776AB) |   | ![Docker](https://img.shields.io/badge/Docker-23232a?style=for-the-badge&logo=docker&logoColor=2496ED) |   |
+
+<h2>Projects</h2>
+
+Coming soon
