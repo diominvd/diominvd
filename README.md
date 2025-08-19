@@ -28,4 +28,8 @@ I specialize in creating web applications using the most advanced technologies o
 
 <h2>Projects</h2>
 
-Coming soon
+1. [ ] Telegram Mini App for manage tasks
+2. [ ] Crypto Dashboard (SPA)
+3. [ ] CLI utilite for analyze GitHub repositorie
+4. [ ] Online bookstore
+5. [ ] Telegram bot for storing product items
