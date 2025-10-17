@@ -1,3 +1,4 @@
+<img src="https://i.pinimg.com/originals/c9/e8/28/c9e8280244183353760e0b2d273ffb6a.jpg" />
 <h2 align="center">Hi, my name is Viacheslav 👋</h2>
 
 <h4 align="center">FullStack developer from Russia 🇷🇺</h2>
@@ -25,11 +26,3 @@ I specialize in creating web applications using the most advanced technologies o
 ![Git](https://img.shields.io/badge/Git-23232a?style=for-the-badge&logo=git&logoColor=F05032)
 ![Docker](https://img.shields.io/badge/Docker-23232a?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Figma](https://img.shields.io/badge/Figma-23232a?style=for-the-badge&logo=figma&logoColor=F24E1E)
-
-<h2>Projects</h2>
-
-1. [ ] Telegram Mini App for manage tasks
-2. [ ] Crypto Dashboard (SPA)
-3. [ ] CLI utilite for analyze GitHub repositorie
-4. [ ] Online bookstore
-5. [ ] Telegram bot for storing product items
